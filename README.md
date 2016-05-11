@@ -1,4 +1,3 @@
-[cover-art]: https://cloud.githubusercontent.com/assets/8317250/15173106/12d4b16e-1795-11e6-9cac-504bf095c6cf.png
 ![Awesome fish][cover-art]
 
 # Awesome fish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -58,3 +57,5 @@ Fork, add your amazing nugget and send a PR.
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+[cover-art]: https://cloud.githubusercontent.com/assets/8317250/15173138/56c4303e-1795-11e6-9daf-2d354f5f801e.jpg
